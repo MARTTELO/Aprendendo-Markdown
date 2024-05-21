@@ -20,22 +20,22 @@ aprendendo sobre markdown
 [Código no Markdown](./codigo.md)
 
 # Trabalhando com Emoji
-[Emoji no Markdown](./emoji.md.md)
+[Emoji no Markdown](./emoji.md)
 
 # Trabalhando com Imagens
-[Imagens no Markdown](./imagens.md.md)
+[Imagens no Markdown](./imagens.md)
 
 # Trabalhando com Link
-[Link no Markdown](./links.md.md)
+[Link no Markdown](./links.md)
 
 # Trabalhando com Listas
-[Listas no Markdown](./listas.md.md)
+[Listas no Markdown](./listas.md)
 
 # Trabalhando com Rodapé
-[Rodapé no Markdown](./rodape.md.md)
+[Rodapé no Markdown](./rodape.md)
 
 # Trabalhando com Separadores
-[Separadores no Markdown](./separadores.mda.md)
+[Separadores no Markdown](./separadores.md)
 
 # Trabalhando com Textos - Negrito / Itpalico
 [Negrito / Itálico no Markdown](./negrito-italico.md)
