@@ -1,4 +1,5 @@
-## **NEGRITO** OU *ITÁLICO*
+ :arrow_left:  [voltar](./README.md)
+# **NEGRITO** OU *ITÁLICO*
 
 tanto o '\*' quanto o '\_' podem ser usados para deixar o texto em **negrito** ou italico usando *italico* 
 
