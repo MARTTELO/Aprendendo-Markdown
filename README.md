@@ -38,10 +38,10 @@ aprendendo sobre markdown
 [Separadores no Markdown](./separadores.mda.md)
 
 # Trabalhando com Textos - Negrito / Itpalico
-[Negrito / Itálico no Markdown](./negrito-italico.md.md.md)
+[Negrito / Itálico no Markdown](./negrito-italico.md)
 
 # Trabalhando com Textos - Paragrafos / Títulos
-[Paragrafos / Títulos no Markdown](./paragrafos-titulos.md.md.md.md)
+[Paragrafos / Títulos no Markdown](./paragrafos-titulos.md)
 
 # Trabalhando com Sub / Sobreescrito
-[Sub / Sobreescrito no Markdown](./sub-sobre-escrito.md.mda.md)
+[Sub / Sobreescrito no Markdown](./sub-sobre-escrito.md)
